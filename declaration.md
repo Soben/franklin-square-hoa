@@ -144,8 +144,8 @@ Class "A" Members shall be all Owners with the exception of the Developer and sh
 
 Class "B" Member(s) shall be the Developer, and shall be entitled to three (3) votes for each Lot owned. The Class "B" membership shall cease and be converted to Class "A" membership on the happening of either of the following events, whichover occurs earlier:
 
-	(a) When the total votes outstanding in the Class "A" membership equal the total votes outstanding in the class "B" membership, or
-	(b) On December 31, 1990
+(a) When the total votes outstanding in the Class "A" membership equal the total votes outstanding in the class "B" membership, or
+(b) On December 31, 1990
 
 ## ARTICLE IV COVENANT FOR MAINTENANCE
 
