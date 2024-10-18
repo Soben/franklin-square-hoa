@@ -6,10 +6,10 @@ The purpose of this repository is to help homeowners have access to the legal do
 
 ## Included
 
-[x] Articles of Incorporation
-[x] Declaration
-[ ] By-Laws
-[ ] Amendment(s)
+- [x] Articles of Incorporation
+- [x] Declaration
+- [ ] By-Laws
+- [ ] Amendment(s)
 
 ## NOTES
 
