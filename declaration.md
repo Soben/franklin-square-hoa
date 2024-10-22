@@ -319,7 +319,7 @@ Invalidation of any one of these covenants or restrictions by judgrr.ent or cour
 
 ### Section 3. Amendment.
 
-The covenants and restrictions of this Declaration shall run with and bind the land for a term of thirty (30) years from the date this Declaration is recorded, after which time they shall be automatically extended for successive periods of ten (10) years. This Declaration may be amended during the first thirty (30) year period by an instrument signed by the Owners of ninety percent (90%) or more of the Lots, and thereafter by an instrument signed by the Owners of seventy-five percent (75%) or more of the Lots. Notwithstanding the above, the Developer shall have the right, until June 30, 1987, to amend this Declaration to clarify any ambiguities or conflicts. Any Amendment must be recorded,
+This Declaration may be amended by the membership at any duly called membership meeting. The vote requires for amendment shall be seventy-five (75%) of the voting interests of the membership, present, in person or by proxy at any duly called meeting at which a quorum is present.
 
 ### Section 4, FHA/VA Approval.
 

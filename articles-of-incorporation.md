@@ -109,7 +109,7 @@ Additional residential property, common area and recreational facilities may be 
 
 ## ARTICLE XII AMENDMENTS
 
-Proposals for the alteration, amendment or recision of these Articles of Incorporation may be made by a majority of the Board of Directors or twenty-five percent (25%) of the voting members. Amendment of these Articles of Incorporation shall require the assent of not less than seventy-five percent (75%) of the total number of votes in each class membership, except that the Board of Directors may amend these Articles of Incorporation without theassent of the membership to correct any ambiguities, scrivener's errors or conflicts appearing within these Articles of Incorporation.
+Proposals for the alteration, amendment, or recision of these Articles of Incorporation may be made by a majority of the Board of Directors or twenty-five percent (25%) of the voting members. Amendment of these Articles of Incorporation shall require the assent of seventy-five percent (75%) of the voting interests of the membership present, in person, or by proxy at any duly called meeting at which a quorum is present, except that the Board of Directors may amend these Articles of Incorporation with the assent of the membership to correct any ambiguities, scrivener's errors or conflicts appearing within these Articles of Incorporation.
 
 ## ARTICLE XIII DISSOLUTION
 
