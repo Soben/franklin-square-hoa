@@ -1,5 +1,3 @@
-Bylaws start on Page 33 of "S Declaration, Articles of Incorporation and By-Laws" r
-
 # BY-LAWS OF FRANKLIN SQUARE HOMEOWNERS ASSOCIATION, INC.
 
 ## ARTICLE I NAME AND LOCATION
