@@ -187,7 +187,7 @@ Any assessment not paid within thirty (30) days of the due date shall bear inter
 
 ### Section 9. Subordination of the Lien to Mortgages.
 
-The lien of the assessments provided for herein shall be a lien superior to all other liens save and except tax liens and mortgage liens, provided said mortgage liens are first liens against the property encumbered thereby, subject only to tax liens, and said first mortgage secures an indebtedness which is amortized en monthly or quarter-annual payments over a period of not less than ten (10) years. The sale or transfer of any Lot pursuant to the foreclosure or any proceeding in lieu thereof of a first mortgage meeting the above qualifications, shall extinguish the lien of such assessments as to payments which became due prior to such sale or transfer. No sale or transfer shall relieve such Lot from liability for any assessments thereafter becoming due or from the lien thereof.
+The lien of the assessments provided for herein shall be a lien superior to all other liens save and except tax liens and mortgage liens, provided said mortgage liens are first liens against the property encumbered thereby, subject only to tax liens, and said first mortgage secures an indebtedness which is amortized en monthly or quarter-annual payments over a period of not less than ten (10) years. No sale or transfer shall relieve such Lot from liability for any assessments thereafter becoming due or from the lien thereof.
 
 ### Section 10. Exempt Property.
 
