@@ -175,7 +175,7 @@ Written notice of any meeting called for the purpose of taking any action author
 
 ### Section 6. Rate of Assessment.
 
-Both annual and special assessments must be fixed at a uniform rate for all Lots, based upon a fraction, the numerator of which is 1 and the denominator of which shall be the number of Lots subject to assessment, subject to Section 3 hereof.
+Both annual and special assessments must be fixed at a uniform rate for all Lots unless there are both attached and detached single family Units, in which case the Assessment for Lots with attached Units may differ from the Assessment for Lots with detached Units, but all Lots on which are constructed attached single family Units will be assessed at a uniform rate and all Lots on which are constructed detached single family Units will be assessed at a uniform rate, based upon a fraction, the numerator of which is 1 and the denominator of which shall be the number of Lots subject to Assessments, subject to Section 3 hereof.
 
 ### Section 7. Date of Commencement of Annual Assessments: Due Dates.
 
