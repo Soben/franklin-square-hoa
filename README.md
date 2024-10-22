@@ -9,9 +9,13 @@ The purpose of this repository is to help homeowners have access to the legal do
 - [x] Articles of Incorporation
 - [x] Declaration
 - [x] By-Laws
-- [ ] Amendment(s)
+- [x] Amendment(s)
 
-## NOTES
+## Notes
+
+All amendments provided to me, through 2018, are included in this document.
+
+## FINE PRINT
 
 This content was copied over by Chris Lagasse.
 
@@ -20,3 +24,5 @@ I make no claims to the full accuracy of the document copy provided within. I di
 Liberties were made as to where to make header divisions and some other content formatting. This was done based on appearance of document structure, the restraints of markdown, and a desire for scannability.
 
 I recommend consulting the official copies and verifying the language  of these documents before using them for any legal purpose.
+
+If you see any issues with this document, please let me know at cdlgeneral@protonmail.com
