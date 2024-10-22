@@ -193,6 +193,24 @@ In the case of any conflict between the Articles of Incorporation and these By-L
 
 The fiscal year of the Association shall begin on the first day of January and end of the 31st day of December of every year, except that the first fiscal year shall begin on the day of incorporation.
 
+### Section 1.
+
+The Association shall have the authority to charge a late fee at the maximum amount allowed by law as amended from time to time. The due date for assessments is the 15th of the month, and after that, both interest and the late fee shall be imposed.
+
+### Section 2.
+
+The Association shall have the authority to levy fines as allowed by law. The Board shall have the authority to adopt a fining procedure which allows for due process and other adherents with the law.
+
+### Section 3.
+
+No residence upon a lot may be leased or rented in the first two (2) years of ownership, except in hardship situations defined as death or disability of the lot owner or owners. The Board shall have the authority to promulgate rules to maintain the integrity of the provisions hereof. All leases or rentals shall be filed with the Association or its managing agent describing all relevant details concerning the lease prior to occupancy by the lessee. Visitation and occupancy by "guests" may be regulated by the Board so as to maintain the single family residence requirements of the documents.
+
+### Section 4.
+
+All leases or rentals shall be for a one (1) year minimum term, and no residence upon a Lot may be rented more than once in any twelve month period.
+
+---
+
 IN WITNESS WHEREOF, as President of Franklin Square Homeowners Association, Inc., I have hereunto set my hand and seal this 20th day May, 1985.
 
  (signature) [Unknown Signature], President
