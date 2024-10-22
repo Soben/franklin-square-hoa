@@ -8,7 +8,7 @@ The purpose of this repository is to help homeowners have access to the legal do
 
 - [x] Articles of Incorporation
 - [x] Declaration
-- [ ] By-Laws
+- [x] By-Laws
 - [ ] Amendment(s)
 
 ## NOTES
