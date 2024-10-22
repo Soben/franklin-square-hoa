@@ -89,6 +89,8 @@ The Board of Directors shall have power to:
 
 (g) delegate to, and contract with, a mortgage company or financial institution, responsibility for collection of the assessments of the Association.
 
+(h) initiate, on behalf of a unit owner, the eviction of any tenant of a unit owner who fails to comply with the requirements of the Declaration, Articles of Incorporation, Bylaws, or Rules and Regulations of the Association.
+
 ### Section 2. Duties.
 
 It shall be the duty of the Board of Directors to:
