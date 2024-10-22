@@ -10,8 +10,6 @@ The name of the corporation is the FRANKLIN SQUARE HOMEOWNERS ASSOCIATION, INC.,
 
 The principal office of the Association is located at 700 Avenue, Miami, Florida 33172.
 
-
-
 ## ARTICLE III REGISTERED AGENT
 
 MORRIS J. WATSKY, whose address is 700 N.W. 107 Avenue, Miami, Florida 33172, is hereby appointed the initial registered agent of this Association.
@@ -51,8 +49,10 @@ Class A members shall be all owners with the exception of the Developer and shal
 ### Class B.
 
 Class B member(s) shall be the Developer (as defined in the Declaration), and shall be entitled to three (3) votes for each Lot owned. The Class B membership shall cease and be converted to Class A membership on the happening of either of the following events, whichever occurs earlier:
-	(a) when the total votes outstanding in the Class A membership equal the total votes outstanding in the Class B membership; or
-	(b) on December 31, 1989.
+
+(a) when the total votes outstanding in the Class A membership equal the total votes outstanding in the Class B membership; or
+
+(b) on December 31, 1989.
 
 ## ARTICLE VII BOARD OF DIRECTORS
 
@@ -90,13 +90,12 @@ GAIL KELLER
 TREASURER
 GAIL KELLER
 
-## ARTICLE IX INDEMNIFICATION OF OFFICERS AllD DIRECTORS
+## ARTICLE IX INDEMNIFICATION OF OFFICERS AND DIRECTORS
 
 A.The Association hereby INDEMNIFIES any Director or Officer made a party or threatened to be made a party to any threatened, pending or completed action, suit or proceeding:
 
-	1.	Whethcr  civil,  criminal,  administralive, or investigative, other than one by or in the right of the Association to procure a judgment in its favor, brought to impose a liability or penalty on such person for an act alleged to have been committed by such person in his capacity of Director or officer of the Association, or in his capacity as Director, officer, employee or agent of any other corporation, partnership, joint venture, or other enterprise which he served at the request of the Association, against judgments, fines, amounts paid in settlement and reasonable expenses, including attorneys fees, actually and necessarily incurred as a result of such action, suit or proceeding or any appeal therein, if such person acted in good faith in the reasonable belief that such action was in the best interests of the Association, and in criminal actions or proceedings, without reasonable ground for belief that such action was unlawful. The termination of any such	action, suit or proceeding by judgment, order, settlement, conviction or upon a plea of nolo contendere or its equivalent shall not in itself create a presumption that any such Director or officer did not act in good faith in the reasonable belief that such action was in the best interests of the Association or that he had reasonable grounds for belief that such action was unlawful.
-
-	2. By or in the right of the Association to procure a judgment in its favor by reason of his being or having been a Director or officer of the Association, or by reason of his being or having been a Director, officer, employee or agent of any other corporation, partnership, joint venture, trust or other enterprise which he served at the request of the Association, against the reasonable expenses, including solely for this reason, or solely because the Director or officer is present at or participates in the meeting of the Board of committee thereof which authorized the contract or transaction, or solely because his or their votes are counted for such purpose. No Director or officer of the Association shall incur liability by reason of the fact that he is or may be interested in any such contract or transaction.
+1.	Whether  civil,  criminal,  administralive, or investigative, other than one by or in the right of the Association to procure a judgment in its favor, brought to impose a liability or penalty on such person for an act alleged to have been committed by such person in his capacity of Director or officer of the Association, or in his capacity as Director, officer, employee or agent of any other corporation, partnership, joint venture, or other enterprise which he served at the request of the Association, against judgments, fines, amounts paid in settlement and reasonable expenses, including attorneys fees, actually and necessarily incurred as a result of such action, suit or proceeding or any appeal therein, if such person acted in good faith in the reasonable belief that such action was in the best interests of the Association, and in criminal actions or proceedings, without reasonable ground for belief that such action was unlawful. The termination of any such	action, suit or proceeding by judgment, order, settlement, conviction or upon a plea of nolo contendere or its equivalent shall not in itself create a presumption that any such Director or officer did not act in good faith in the reasonable belief that such action was in the best interests of the Association or that he had reasonable grounds for belief that such action was unlawful.
+2. By or in the right of the Association to procure a judgment in its favor by reason of his being or having been a Director or officer of the Association, or by reason of his being or having been a Director, officer, employee or agent of any other corporation, partnership, joint venture, trust or other enterprise which he served at the request of the Association, against the reasonable expenses, including solely for this reason, or solely because the Director or officer is present at or participates in the meeting of the Board of committee thereof which authorized the contract or transaction, or solely because his or their votes are counted for such purpose. No Director or officer of the Association shall incur liability by reason of the fact that he is or may be interested in any such contract or transaction.
 
 B. Interested Directors may be counted in detennining the presence of a quorum at a meeting of the Board of Directors or of a committee which authorized the contract or transaction.
 
