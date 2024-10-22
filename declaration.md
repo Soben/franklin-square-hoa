@@ -276,7 +276,7 @@ No commercial signs shall be erected or maintained on any Lot, with the exceptio
 
 ### Section 6. Parking.
 
-No vehicle shall be parked on any part of any Lot except in the parking area designated by the Association. No truck, house or travel trailer, motor home, camper, boat, or boat trailer shall be parked in the Project. No trailers or commercial vehicles other than those present for business with a household may be parked in the Project, and those vehicles present for business shall not remain longer than during regular business hours.
+No vehicle shall be parked on any part of any Lot except in the parking area designated by the Association. No truck with more than 3/4 ton capacity, house or travel trailer, motor home, camper, boat, or boat trailer shall be parked in the Project unless they are concealed from public view within a garage or similar structure. No trailers or commercial vehicles other than those present for business with a household may be parked in the Project, and those vehicles present for business shall not remain longer than during regular business hours.
 
 ### Section 7. Easements and Utilities.
 
