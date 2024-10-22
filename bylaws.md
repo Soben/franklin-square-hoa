@@ -91,6 +91,8 @@ The Board of Directors shall have power to:
 
 (h) initiate, on behalf of a unit owner, the eviction of any tenant of a unit owner who fails to comply with the requirements of the Declaration, Articles of Incorporation, Bylaws, or Rules and Regulations of the Association.
 
+(i) Levy a $400.00 per lot special assessment and increase in the budget for fiscal year 1997. The authority for imposition and collection of same in accordance with the requirements of the Declaration are authorized and ratified hereby.
+
 ### Section 2. Duties.
 
 It shall be the duty of the Board of Directors to:
