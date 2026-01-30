@@ -1,0 +1,11 @@
+# Local Development Configuration Override
+# Use this file for local Docker development to avoid remote_theme conflicts
+
+# Theme configuration - local gem-based theme only
+theme: just-the-docs
+
+# Plugin configuration - exclude jekyll-remote-theme for local development
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
