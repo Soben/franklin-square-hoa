@@ -1,3 +1,9 @@
+---
+layout: default
+title: Declaration
+nav_order: 2
+---
+
 # DECLARATION
 
 THIS DECLARATION, made on the date hereinafter set forth by LENNAR HOMES, INC., a Florida corporation, hereinafter collectively referred to as "Developer".

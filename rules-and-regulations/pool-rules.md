@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pool Rules
+parent: Rules and Regulations
+nav_order: 2
+---
+
 # Signage Found at Pool Area
 
 The following signage can be found at and around the pool area.

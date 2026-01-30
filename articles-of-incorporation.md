@@ -1,3 +1,9 @@
+---
+layout: default
+title: Articles of Incorporation
+nav_order: 4
+---
+
 # ARTICLES OF INCORPORATION OF FRANKLIN SQUARE HOMEOWNERS ASSOCIATION, INC.
 
 Pursuant to the provisions of Chapter 617, Florida Statutes, we, the undersigned natural persons competent to contract, acting as incorporators of a corporation not-for-profit, hereby adopt the following Articles of Incorporation:

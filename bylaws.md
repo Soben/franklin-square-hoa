@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bylaws
+nav_order: 3
+---
+
 # BY-LAWS OF FRANKLIN SQUARE HOMEOWNERS ASSOCIATION, INC.
 
 ## ARTICLE I NAME AND LOCATION

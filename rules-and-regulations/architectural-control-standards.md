@@ -1,3 +1,10 @@
+---
+layout: default
+title: Architectural Control Standards
+parent: Rules and Regulations
+nav_order: 1
+---
+
 # FRANKLIN SQUARE HOMEOWNERS ASSOCIATION, INC. RESOLUTIONS REGARDING ARCHITECTURAL CONTROL STANDARDS
 
 WHEREAS, Franklin Square Homeowners Association, Inc.'s (the "Association") Articles of Incorporation authorize the Association to provide for architectural control consistent with the rights and duties established by the Declaration of Franklin Square Homeowners Association, Inc. recorded in O.R. Book 6017, Page 1904, et. seq. of the Public Records of Pinellas County, Florida, as amended from time to time (the "Declaration"); and
