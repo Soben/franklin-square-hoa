@@ -8,8 +8,6 @@ baseurl: /franklin-square-hoa
 # Theme configuration
 # Local development uses gem-based theme
 theme: just-the-docs
-# GitHub Pages uses remote_theme (will override 'theme' setting)
-remote_theme: just-the-docs/just-the-docs@v0.8.2
 
 # Color scheme
 color_scheme: light
@@ -41,6 +39,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - Agents.md
+  - GITHUB_PAGES_SETUP.md
+  - DOCKER_LOCAL_DEVELOPMENT.md
   - vendor/
   - .sass-cache/
   - .jekyll-cache/
@@ -48,6 +48,11 @@ exclude:
   - node_modules/
   - .git/
   - .gitignore
+  - Dockerfile
+  - docker-compose.yml
+  - _config_local.yml
+  - _config_github.yml
+  - tmp/
 
 # Plugin configuration
 plugins:

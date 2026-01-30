@@ -26,13 +26,16 @@ jobs:
         with:
           ruby-version: '3.2'
           bundler-cache: true
+          cache-version: 1
+        env:
+          BUNDLE_WITH: github_pages
           
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
         
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --config _config.yml,_config_github.yml
         env:
           JEKYLL_ENV: production
           

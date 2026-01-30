@@ -10,6 +10,12 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 end
 
+# GitHub Pages requires jekyll-remote-theme
+# For local development, this gem is excluded to avoid conflicts
+group :github_pages do
+  gem "jekyll-remote-theme"
+end
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
