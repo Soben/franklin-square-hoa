@@ -32,9 +32,6 @@ nav_sort: case_insensitive
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Footer content
-footer_content: "Franklin Square Homeowners Association legal documents. For reference purposes only. Consult official recorded copies for legal use."
-
 # Heading anchors
 heading_anchors: true
 
