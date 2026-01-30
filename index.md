@@ -58,6 +58,6 @@ If you notice any discrepancies between these documents and the official recorde
 
 ---
 
-**Last Updated**: January 2026
+**Last Updated**: {{ site.time | date: "%B %Y" }}
 
 This site is maintained by Chris Lagasse as an unofficial resource for Franklin Square residents. This is not an official HOA website. All content is version-controlled and publicly accessible via [GitHub](https://github.com/Soben/franklin-square-hoa).
