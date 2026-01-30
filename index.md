@@ -12,7 +12,7 @@ Welcome to the digital archive of legal documents for the Franklin Square Homeow
 
 ## About This Site
 
-This repository provides Franklin Square homeowners with accessible, searchable copies of our community's governing legal documents. All documents are maintained in a version-controlled format, allowing residents to:
+This is an unofficial resource that provides Franklin Square homeowners with accessible, searchable copies of the community's governing legal documents. All documents are maintained in a version-controlled format, allowing residents to:
 
 - Easily reference HOA rules, regulations, and bylaws
 - Understand their rights and responsibilities as homeowners
@@ -43,7 +43,7 @@ Use the sidebar menu to browse documents by category. Documents are organized by
 ## Important Legal Disclaimer
 
 {: .warning }
-> **These documents are provided for reference purposes only.**
+> **This is an unofficial, volunteer-maintained resource. These documents are provided for reference purposes only.**
 > 
 > While every effort has been made to accurately transcribe these legal documents, they should not be relied upon for legal purposes without verification. The language in all documents is preserved exactly as it appears in the original legal documents, including original capitalization, punctuation, and any apparent inconsistencies.
 > 
@@ -60,4 +60,4 @@ If you notice any discrepancies between these documents and the official recorde
 
 **Last Updated**: January 2026
 
-This site is maintained by the Franklin Square HOA community. All content is version-controlled and publicly accessible via [GitHub](https://github.com/Soben/franklin-square-hoa).
+This site is maintained by Chris Lagasse as an unofficial resource for Franklin Square residents. This is not an official HOA website. All content is version-controlled and publicly accessible via [GitHub](https://github.com/Soben/franklin-square-hoa).

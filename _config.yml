@@ -1,6 +1,7 @@
 # Jekyll Configuration for Franklin Square HOA
-title: Franklin Square Homeowners Association
+title: Franklin Square HOA
 description: Legal documents and governing documentation for Franklin Square HOA, Palm Harbor, FL
+aux_links_new_tab: true
 url: https://soben.github.io
 baseurl: /franklin-square-hoa
 

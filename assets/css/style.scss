@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles for Franklin Square HOA */
+
+/* Ensure site title doesn't get cut off */
+.site-title {
+  white-space: normal !important;
+  line-height: 1.3 !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* Adjust header height if needed */
+.site-header {
+  min-height: auto !important;
+}
