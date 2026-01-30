@@ -5,7 +5,9 @@ url: https://soben.github.io
 baseurl: /franklin-square-hoa
 
 # Theme configuration
-# Use remote_theme for GitHub Pages compatibility
+# Local development uses gem-based theme
+theme: just-the-docs
+# GitHub Pages uses remote_theme (will override 'theme' setting)
 remote_theme: just-the-docs/just-the-docs@v0.8.2
 
 # Color scheme
