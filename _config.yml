@@ -5,8 +5,8 @@ url: https://soben.github.io
 baseurl: /franklin-square-hoa
 
 # Theme configuration
-theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+# Use remote_theme for GitHub Pages compatibility
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 
 # Color scheme
 color_scheme: light
