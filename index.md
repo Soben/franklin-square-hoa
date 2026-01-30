@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: By-Laws of Franklin Square HOA in Palm Harbor, FL
 nav_order: 1
 description: "Legal documents and governing documentation for Franklin Square Homeowners Association, Palm Harbor, FL"
 permalink: /
